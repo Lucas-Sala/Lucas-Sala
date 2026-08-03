@@ -1,6 +1,6 @@
 # Lucas Sala Alves
 
-Me chamo Lucas Sala Alves, tenho 24 anos e sou natural de São Mateus, ES. Concluí o ensino médio no IFES, com o curso técnico em mecânica. Atualmente, estou cursando Engenharia da Computação na UFES.
+Me chamo Lucas Sala Alves, tenho 24 anos e sou natural de São Mateus, ES. Concluí o ensino médio no IFES, com o curso técnico em mecânica. Atualmente, estou finalizando a graduação em Engenharia da Computação na UFES e buscando uma oportunidade de Estágio.
 ---
 
 ## 🤖 Linguagens e Tecnologias
